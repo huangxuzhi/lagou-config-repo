@@ -1,9 +1,9 @@
-# spring:
-#   datasource:
-#     driver-class-name: com.mysql.jdbc.Driver
-#     url: jdbc:mysql://localhost:3306/recruit?useUnicode=true&characterEncoding=utf8
-#     username: root
-#     password:
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/recruit?useUnicode=true&characterEncoding=utf8
+    username: root
+    password:
 registerRestrict:
     timeInMinutes: 1
     count: 10
