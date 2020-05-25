@@ -11,5 +11,6 @@ email:
   from:
     account: 13751310017@163.com    
     password: za88326052
+    nickname: 系统通知
   smtpHost: smtp.163.com
   protocol: smtp
