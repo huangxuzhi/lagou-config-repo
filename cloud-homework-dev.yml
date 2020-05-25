@@ -7,6 +7,9 @@ spring:
 registerRestrict:
     timeInMinutes: 1
     count: 10
-    
-    
-      
+email:
+  from:
+    account: 13751310017@163.com    
+    password: za88326052
+  smtpHost: smtp.163.com
+  protocol: smtp
