@@ -6,7 +6,7 @@ spring:
     password:
 registerRestrict:
     timeInMinutes: 1
-    count: 10
+    count: 3
 email:
   from:
     account: 13751310017@163.com    
